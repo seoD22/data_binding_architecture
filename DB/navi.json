@@ -1,0 +1,53 @@
+[
+  [
+    {
+      "navTitle": "Porfoilo",
+      "navLink": "#Portfolio",
+      "navTarget": "",
+      "navClass": "scrollPage",
+      "isNav": true
+    },
+    {
+      "navTitle": "About Me",
+      "navLink": "#about",
+      "navTarget": "",
+      "navClass": "scrollPage",
+      "isNav": true
+    },
+    {
+      "navTitle": "Preinterview",
+      "navLink": "#Preinterview",
+      "navTarget": "",
+      "navClass": "scrollPage",
+      "isNav": true
+    },
+    {
+      "navTitle": "Contact",
+      "navLink": "#Contact",
+      "navTarget": "",
+      "navClass": "scrollPage",
+      "isNav": true
+    },
+    {
+      "navTitle": "ETC",
+      "navLink": "#ETC",
+      "navTarget": "",
+      "navClass": "scrollPage",
+      "isNav": true
+    }
+  ],
+  [
+    {
+      "snsIcon":"",
+      "snsLink":"",
+      "snsTarget":"_blank",
+      "isSns": true
+    },
+    {
+      "snsIcon":"",
+      "snsLink":"",
+      "snsTarget":"_blank",
+      "isSns": true
+    }
+  ]
+]
